@@ -1,1 +1,0 @@
-I am excited to share my latest JavaScript project, *Dicee*! It's a fun and interactive application where two players roll virtual dice, and the app determines the winner based on the higher roll. Simple, yet satisfying! 
